@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79.86 16.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #5dc2d9;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #53bed7;
+      }
+    </style>
+  </defs>
+  <title>1Ресурс 1splitter</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_1-2" data-name="Слой 1">
+      <circle class="cls-1" cx="39.56" cy="8.15" r="7.15"/>
+      <path class="cls-2" d="M0,7.81,32.45,8"/>
+      <path class="cls-2" d="M47.41,7.81,79.86,8"/>
+    </g>
+  </g>
+</svg>
